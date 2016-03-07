@@ -2,12 +2,12 @@ package robotMain;
 
 public class Movement1 {
 
-	Integer moveRobot(Integer move){
+	public Integer moveRobot(Integer move){
 		
 		switch(move){
 			case 1:
 				move -= 10;
-				System.out.println("moved to the left a couple feet.");
+				System.out.println("Beep beep...Pizza it is...Beep, beep.");
 				return move;
 			case 2:
 				move -= 10;
