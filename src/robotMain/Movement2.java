@@ -1,8 +1,8 @@
 package robotMain;
 
-public class Movement1 {
+public class Movement2 {
 
-	public Integer moveRobot(Integer move){
+public Integer moveRobot(Integer move){
 		
 		switch(move){
 			case 1:
